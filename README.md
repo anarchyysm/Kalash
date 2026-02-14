@@ -1,4 +1,4 @@
-(Kalash)[pic/kalash.png]
+![Kalash](pic/kalash.png)
 
 ```
     __ __      __           __  
